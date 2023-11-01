@@ -1,2 +1,2 @@
 # ML-FINAL-PROJECTS
-ML projects 
+Main repository of all the projects done.
