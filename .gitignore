@@ -4,6 +4,8 @@ __pycache__/
 *$py.class
 notes.ipynb
 
+# CSV file
+*.csv
 
 # C extensions
 *.so
